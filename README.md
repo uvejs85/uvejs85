@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uvejs85!
-- 👀 I’m interested in web development and crypto currency.
-- 🌱 I’m currently learning web development specificly JavaScript and crypto chart trading.
-- 💞️ I’m looking to collaborate on crypto trading and web development.
+- 👀 I’m interested in to be a proffesional web developper.
+- 🌱 I’m currently learning web development specificly JavaScript. Still a begginer at programming.
+- 💞️ I’m looking to collaborate on HTML, CSS, BOOTSTRAP.
 - 📫 Email me! uvejspajaziti1@gmail.com.
 
 <!---
